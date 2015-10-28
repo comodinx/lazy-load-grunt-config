@@ -13,14 +13,6 @@ npm install lazy-load-grunt-config
 ```
 
 
-Running the tests
------------------
-
-```shell
-npm test
-```
-
-
 Features
 --------
 
