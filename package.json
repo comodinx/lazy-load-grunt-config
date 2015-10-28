@@ -1,6 +1,6 @@
 {
   "name": "lazy-load-grunt-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "lazy-load-grunt-config is a Grunt library that allows you to break up your Gruntfile config by task",
   "main": "index.js",
   "repository": {
