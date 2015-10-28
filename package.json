@@ -1,0 +1,26 @@
+{
+  "name": "lazy-load-grunt-config",
+  "version": "0.1.0",
+  "description": "lazy-load-grunt-config is a Grunt library that allows you to break up your Gruntfile config by task",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comodinx/lazy-load-grunt-config"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comodinx/lazy-load-grunt-config/issues"
+  },
+  "homepage": "https://github.com/comodinx/lazy-load-grunt-config",
+  "dependencies": {
+    "glob": "5.0.15",
+    "load-grunt-tasks": "3.3.0",
+    "orcorum": "0.1.9"
+  },
+  "keywords": [
+    "gruntplugin",
+    "lazy",
+    "load"
+  ]
+}
